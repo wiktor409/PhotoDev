@@ -1,0 +1,7 @@
+<apex:page standardController="Image" recordSetVar="images" showHeader="false" sidebar="false">
+    <apex:form >
+        <apex:pageBlock tabStyle="Contact" title="Send Mass Email">
+            
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
